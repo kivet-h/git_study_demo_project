@@ -1,2 +1,4 @@
 const myName = 'kivet';
-console.log(myName);
+const myAge = 18;
+
+console.log(myName, age);
