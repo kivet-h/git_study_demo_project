@@ -11,5 +11,5 @@ console.log(a);
 const b = 'bbb';
 console.log(b);
 
-const c = 'cccc';
+const c = 'cc';
 console.log(c);
